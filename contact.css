@@ -1,0 +1,44 @@
+
+html,body{
+	margin:0;
+	padding: 0;
+	height: 100%;
+	background-color: #F5F6CE;
+	
+}
+
+.mynav-button{
+	width:100%;
+	text-align:left;
+	background-color:black;
+	color:white;
+	padding:10px 18px;
+	margin-top: 0%;
+    text-decoration:none;
+}
+.mynav-bar{
+	background-color: black;
+	padding: 10px 18px;
+	margin-top: 0px;
+}
+.head1  {
+ text-align: center;
+ font-size: 300%;
+ font-style: monospace ;
+ font-variant: small-caps;
+ padding-top: 200px;
+ font-weight: lighter;
+}
+.email{
+	text-align: center;
+	font-size: 200%;
+	font-style: monospace;
+    font-weight: lighter;
+
+}
+.fb{
+	text-align: center;
+	font-style: monospace;
+    font-weight: lighter;
+    font-size: 150%;
+}
